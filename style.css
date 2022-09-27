@@ -17,9 +17,12 @@ h2 {
     font-size: 26px;
 }
 
-ul li, ol li, a {
+ul li, ol li, {
     background-color:lightcyan;
     color: rgb(0, 0, 0);
 }
 
-
+a {
+    background-color:rgb(233, 233, 255);
+    color: rgb(128, 0, 0);
+}
