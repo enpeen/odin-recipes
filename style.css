@@ -17,6 +17,11 @@ h2 {
     font-size: 26px;
 }
 
+img {
+    height: auto;
+    width: 400px;   /* Width is also defined in index.html file. In the future consider deleting it. */
+}
+
 
 ul li, ol li {
     background-color: lightcyan;
