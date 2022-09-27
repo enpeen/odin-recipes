@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Calibri, "Times New Roman";
+    font-size: 18px;
+}
+
+h1 {
+    background-color:lightseagreen;
+    color:blue;
+    text-align: center;
+    font-size: 34px;
+}
+
+h2 {
+    background-color:rgb(255, 246, 197);
+    color:rgb(8, 8, 136);
+    text-align: center;
+    font-size: 26px;
+}
+
+ul li, ol li, a {
+    background-color:lightcyan;
+    color: rgb(0, 0, 0);
+}
+
+
