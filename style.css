@@ -4,7 +4,7 @@
 }
 
 h1 {
-    background-color:lightseagreen;
+    background-color:rgb(255, 167, 167);
     color:blue;
     text-align: center;
     font-size: 34px;
@@ -17,12 +17,11 @@ h2 {
     font-size: 26px;
 }
 
-ul li, ol li, {
-    background-color:lightcyan;
-    color: rgb(0, 0, 0);
+ul li, ol li {
+    background-color: lightcyan;
 }
 
-a {
-    background-color:rgb(233, 233, 255);
-    color: rgb(128, 0, 0);
+.recipe {
+    background-color: rgb(255, 234, 234);
+    color:black;
 }
